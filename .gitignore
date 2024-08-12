@@ -1,0 +1,5 @@
+tmp/
+*.old
+*.backup
+/Thuvbs.db
+/.DS_Store
